@@ -16,4 +16,4 @@ We practiced structuring a full game, working with real-style data, and building
 - You choose who you think has more followers  
 - A function checks your answer and returns True/False  
 - If you’re correct, a new round starts with one account carried forward  
-- If you're wrong — game over!
+- If you're wrong, then womp womp game over!
